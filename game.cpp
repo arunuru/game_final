@@ -10,7 +10,7 @@
 using namespace std;
 
 int spin() {
-    return rand() % 6 + 5; // от 5 до 10
+    return rand() % 5 + 4; // 5 to 9 chances 
 }
 
 void spinAnimation(int &a, int &b, int &c) {
