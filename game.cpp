@@ -69,7 +69,7 @@ int main() {
 
     string player1, player2;
     int Money1 = 1000, Money2 = 1000;
-
+    cout << "==== WELCOME TO SLOT MACHINE ====\n";
     cout << "Enter Player 1 name: ";
     cin >> player1;
     cout << "Enter Player 2 name: ";
@@ -101,4 +101,5 @@ int main() {
 
     return 0;
 }
+
 
